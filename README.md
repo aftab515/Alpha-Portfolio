@@ -1,3 +1,6 @@
+## Visual Representation of portfolio
+<img width="929" alt="portfolio" src="https://user-images.githubusercontent.com/114320334/235668112-3565478d-30ce-469a-b05c-a168bc9f55d3.PNG">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -26,7 +29,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Visual Representation of portfolio
-<img width="929" alt="portfolio" src="https://user-images.githubusercontent.com/114320334/235668112-3565478d-30ce-469a-b05c-a168bc9f55d3.PNG">
-
